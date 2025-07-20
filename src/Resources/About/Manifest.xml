@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RimConnect - Warp</identifier>
+  <version>1.0.0</version>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+  </loadAfter>
+  <loadBefore>
+	  <li>betterscenes.rimconnect</li>
+  </loadBefore>
+  <manifestUri>https://raw.githubusercontent.com/Kuuchuu/RimConnect-Warp/master/src/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Kuuchuu/RimConnect-Warp/releases</downloadUri>
+</Manifest>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimConnect - Warp</name>
+  <author>Leoraaaaaaaaaaaaaaaaaaaaa</author>
+  <url>
+    https://github.com/Kuuchuu/RimConnect-Warp
+  </url>
+  <supportedVersions>
+    <li>1.5</li>
+	<li>1.6</li>
+  </supportedVersions>
+  <packageId>leoraaaaaaaaaaaaaaaaaaaaa.rimconnectwarp</packageId>
+  <modDependencies>
+    <li>
+      <packageId>betterscenes.rimconnect</packageId>
+      <displayName>RimConnect</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1880784338</steamWorkshopUrl>
+      <downloadUrl>https://github.com/Better-Scenes/RimConnect-mod</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+  </loadAfter>
+  <loadBefore>
+    <li>betterscenes.rimconnect</li>
+  </loadBefore>
+  <description>Twitch integration with RimConnect extension 
+  
+Version 1.0.0
+
+=== ABOUT ===
+
+Warp RimConnect over to a custom defined server.</description>
+</ModMetaData>
+
